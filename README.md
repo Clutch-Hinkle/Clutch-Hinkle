@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Chris Hinkle
-- 👀 I’m interested in blockchain technology
-- 🌱 I’m currently learning to write smart contracts for ethereum
-- 📫 How to reach me chrs.hinkle1999@knights.ucf.edu
+- 👀 I’m interested in app dev
+- 🌱 I’m currently learning to create an app using React Native
+- 📫 How to reach me ch927701@ucf.edu
 
 <!---
 Clutch-Hinkle/Clutch-Hinkle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
